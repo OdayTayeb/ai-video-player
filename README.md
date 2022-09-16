@@ -9,4 +9,5 @@ so it is a standard video player with some extra features that enable you to con
 ![alt text](https://github.com/OdayTayeb/ai-video-player/blob/master/Demo/hands.jpg?raw=true)
 
 # a short Demo
-![alt text](https://github.com/OdayTayeb/ai-video-player/blob/master/Demo/demo.mp4?raw=true)
+https://user-images.githubusercontent.com/92798033/190825776-77ff0b9a-df75-4a59-b039-e60c49adde71.mp4
+
